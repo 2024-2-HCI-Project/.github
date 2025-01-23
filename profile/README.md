@@ -9,15 +9,12 @@
 ## 🔥 **𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄**
 
 ### 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱
-![image](https://github.com/user-attachments/assets/00b493a8-753a-4516-b6c2-98b7dbe43fd9)
-![image](https://github.com/user-attachments/assets/279bdcd9-8113-4de1-ad96-326c6f62e9fc)
 
 - 국내 웹소설 시장의 성장에 따른 웹소설 작가 지망생의 증가 
 - 그러나 일반인이 웹소설 창작을 시작하는 것에는 많은 어려움이 있음 
 
 
 ### 𝗚𝗼𝗮𝗹𝘀
-![image](https://github.com/user-attachments/assets/7fe0dd07-d8b6-4667-bd7f-38fa4fbb46c8)
 
 - 창의성 촉진 : 사용자에게 영감을 주기 위 다양한 아이디어를 제공함으로써 기존에 존재하지 않는 창의적인 소설 창작을 지원
 - 장르 다양성 확장 : 기존 작가들이 익숙하지 않은 장르를 시도해볼 수 있도록 장르별로 독창적인 줄거리를 제공
@@ -32,7 +29,16 @@
 </br>
 
 ## 💡 **𝗠𝗮𝗶𝗻 𝗣𝗮𝗴𝗲**
-![image](https://github.com/user-attachments/assets/1044a583-b044-4251-a54a-a80c8f5b4af2)
+![image](https://github.com/user-attachments/assets/5131213b-5779-427f-9147-6d002a77bdf2)
+![image](https://github.com/user-attachments/assets/ce2018e6-d061-4c8b-afb1-e3fd082599c5)
+![image](https://github.com/user-attachments/assets/8f1f0a1a-055c-49ec-84c9-e6b887141120)
+![image](https://github.com/user-attachments/assets/1bc73e6b-d1de-4f98-b93a-8a1f53addb01)
+![image](https://github.com/user-attachments/assets/9463e983-b416-4f10-94fc-9408090eea3b)
+![image](https://github.com/user-attachments/assets/fd38e26f-e925-470f-a2ec-854849c474a3)
+![image](https://github.com/user-attachments/assets/31387391-537d-451c-8c10-3f5108037168)
+![image](https://github.com/user-attachments/assets/561aca8e-a0a3-4a06-a4be-7e08340d0f09)
+![image](https://github.com/user-attachments/assets/15b1f2fb-572c-4314-8358-8a3a5fc76b32)
+![Uploading image.png…]()
 
 
 
