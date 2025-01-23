@@ -10,21 +10,23 @@
 
 ### 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱
 
-- 국내 웹소설 시장의 성장에 따른 웹소설 작가 지망생의 증가 
-- 그러나 일반인이 웹소설 창작을 시작하는 것에는 많은 어려움이 있음 
+- 보건복지부의 2021년 정신건강 실태조사에 따르면 
+  우리나라 18세 이상 국미 중 30% 가량은 평생 한 번 이상의 정신 질환을 경험
+- 그러나 정신건강서비스를 이용한 비율은 12%로 상당히 저조함
+- 이는 자신의 상태에 대한 자각이 부족하기 떄문에 발생함
+- 따라서 자신의 상태, 즉 감정에 대한 이해도를 높일 수 있는 서비스가 필요함
 
 
 ### 𝗚𝗼𝗮𝗹𝘀
 
-- 창의성 촉진 : 사용자에게 영감을 주기 위 다양한 아이디어를 제공함으로써 기존에 존재하지 않는 창의적인 소설 창작을 지원
-- 장르 다양성 확장 : 기존 작가들이 익숙하지 않은 장르를 시도해볼 수 있도록 장르별로 독창적인 줄거리를 제공
-- 창작 활성화 : 소설 창작에 입문하고자 하는 일반인의 등단을 돕고 다양한 분야의 소설 창작 활동 활성화를 촉진
-- 최신 인공지능 기술 활용 : 인공지능 기술을 처음 사용하는 고객도 쉽고 즐겁게 사용할 수 있도록 기능을 구현 
+- 사용자가 본인의 상황과 감정 상태에 대해 기록할 수 있으며 각 감정과 상황에 적합한 시청각적 효과를 제공
+- 사용자는 감정을 정리하고 해소할 수 있으며 감정 기록을 보관하여 자신에 대한 성찰 가능
 
 ### 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
 
-- InnoVel(이노블): `Into + Novel`의 합성어로 `I`와 `V`를 대문자로 강조하여 'AI' 약자처럼 표현함  
-- 사용자가 원하는 장르, 테마나 줄거리를 선택하면 인공지능을 기반으로 추천 플롯을 제공하여 소설을 쉽게 창작하고 공유할 수 있는 서비스
+- EmoSphere(이모스피어) : `Emotion + Sphere`의 합성어
+- 감정의 관리와 성찰을 돕기 위해 개발된 몰입형 AR 공간
+- 감정을 입체 도형으로 시각화하여 해소하고 우주 공간에 저장하는 스토리텔링 접근 방식
 
 </br>
 
@@ -38,7 +40,7 @@
 ![image](https://github.com/user-attachments/assets/31387391-537d-451c-8c10-3f5108037168)
 ![image](https://github.com/user-attachments/assets/561aca8e-a0a3-4a06-a4be-7e08340d0f09)
 ![image](https://github.com/user-attachments/assets/15b1f2fb-572c-4314-8358-8a3a5fc76b32)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5d428baf-47df-48a9-a289-43f92c12965b)
 
 
 
@@ -48,10 +50,10 @@
 
 | **분야**       | **사용 기술**                                 | 
 |----------------|---------------------------------------------|   
-| **[Frontend](https://github.com/solux-innovel/frontend)**   | React Native, TypeScript                         |
-| **[Backend](https://github.com/solux-innovel/backend)**    | Spring Boot, Java   | 
+| **[Frontend](https://github.com/2024-2-HCI-Project/EmoSphere_FE)**   | C#, Unity                        |
+| **[Backend](https://github.com/2024-2-HCI-Project/EmoSphere_BE)**    | Python   | 
 | **Database**   | MySQL(RDS)                       |
-| **Open API**        | OpenAI 3.5 turbo  |
+
 
 </br>
 
@@ -59,12 +61,9 @@
 
 | **이름**            | **역할**              |
 |---------------------|-----------------------|
-| [**노경희**](https://github.com/khee2)     | PM, Backend |
-| [**배정연**](https://github.com/bluishflame)  | Frontend  |
-| [**윤정원**](https://github.com/Yun-Jeongwon) | Data |
-| [**이채영**](https://github.com/alwaysY0ung)     | Backend  |
-| [**정지윤**](https://github.com/GeeYun086)     | Frontend  |
-| [**조수아**](https://github.com/sua0316)     | Data  |
+| [**유현서**](https://github.com/waieiches)     | PM, Backend |
+| [**배정연**](https://github.com/bluishflame)  | Design, Frontend  |
+
 
 </br>
 
